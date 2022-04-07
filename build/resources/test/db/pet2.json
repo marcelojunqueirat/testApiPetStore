@@ -1,0 +1,18 @@
+{
+  "id": 154,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Atena",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2022,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+}
